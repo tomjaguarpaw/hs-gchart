@@ -1,3 +1,5 @@
+[![Hackage version](https://img.shields.io/hackage/v/hs-gchart.svg?label=Hackage)](https://hackage.haskell.org/package/hs-gchart)[![Linux build status](https://img.shields.io/travis/tomjaguarpaw/hs-gchart/master.svg?label=Linux%20build)](https://travis-ci.org/tomjaguarpaw/hs-gchart)
+
 ## Introduction
 
  **GChart** is a Haskell wrapper around [Google Chart API].
