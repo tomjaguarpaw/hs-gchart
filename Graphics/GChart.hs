@@ -379,4 +379,3 @@ convertToUrl :: Chart -> String
 convertToUrl chart = baseURL ++ intercalate "&" urlparams where
     baseURL = "http://chart.apis.google.com/chart?"
     urlparams = [urlEnc a ++ "=" ++ urlEnc b | (a,b) <- getParams chart]
-

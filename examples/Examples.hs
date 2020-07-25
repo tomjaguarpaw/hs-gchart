@@ -217,4 +217,3 @@ main = do putStrLn christmasPie
           putStrLn lineChartWithLineStyles
           putStrLn formulaChart
           putStrLn qrCodeChart
-

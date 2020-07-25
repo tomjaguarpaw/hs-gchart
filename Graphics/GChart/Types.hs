@@ -617,4 +617,3 @@ defaultLineStyle = LS { lineStyleThickness = 1,
 
 -- | Default chart label data for QR Encoding
 defaultQREncodingLabelData = QRLabelData L' 4
-

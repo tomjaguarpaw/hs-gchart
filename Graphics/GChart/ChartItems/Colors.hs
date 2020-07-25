@@ -37,5 +37,3 @@ encodeFill (Fill kind fType) = case kind of
                                                     Background  -> "bg"
                                                     Area        -> "c"
                                                     Transparent -> "a"
-
-
